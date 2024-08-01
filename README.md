@@ -1,4 +1,4 @@
-In this project, I have develoedp a calculator that will have the following feature:
+In this project, I have developed a calculator that will have the following feature:
 It will perform basic arithmetic operations like addition, subtraction, division, and multiplication.
 It will perform decimal operations.
 The calculator will display Infinity if you try to divide any number by zero.
